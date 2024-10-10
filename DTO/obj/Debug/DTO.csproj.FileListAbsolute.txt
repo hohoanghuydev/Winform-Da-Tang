@@ -1,0 +1,7 @@
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\bin\Debug\DTO.dll
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\bin\Debug\DTO.pdb
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\obj\Debug\DTO.dll
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\obj\Debug\DTO.pdb
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DTO\bin\Debug\DTO.dll.config
