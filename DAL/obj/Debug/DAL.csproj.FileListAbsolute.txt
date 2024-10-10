@@ -1,0 +1,10 @@
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\bin\Debug\DAL.dll
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\bin\Debug\DAL.pdb
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\obj\Debug\DAL.dll
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\obj\Debug\DAL.pdb
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\bin\Debug\DTO.dll
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\bin\Debug\DTO.pdb
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\bin\Debug\DTO.dll.config
+D:\HocKy7\phat trien ung dung thong minh\Winform-Da-Tang\DAL\obj\Debug\DAL.csproj.Up2Date
